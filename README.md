@@ -1,4 +1,2 @@
 # hello-world
-exercise example
-
-GitHub
+exercise example!
